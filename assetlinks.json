@@ -1,0 +1,23 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samsung.android.spay",
+    "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:dc:66:be:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+		"34:df:0E:7A:9F:1C:F1:89:2E:45:C0:56:B4:97:3C:d8:1C:CF:14:8A:40:50:D1:1A:EA:4A:C5:A6:5F:90:0A:42"
+    ]
+  }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.fidotestapp",
+      "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:dc:66:be:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+		"34:df:0E:7A:9F:1C:F1:89:2E:45:C0:56:B4:97:3C:d8:1C:CF:14:8A:40:50:D1:1A:EA:4A:C5:A6:5F:90:0A:42"
+      ]
+    }
+  } 
+}
+]
